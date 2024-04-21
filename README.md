@@ -1,4 +1,6 @@
 # Joguinho
 Trabalho referente ao 3° semestre do curso de Ciência da Computação.
 
-Rode o codigo e jogue no próprio terminal.
+1° - Deixe a IDE em tela cheia.
+2° - Rode o código e deixe o terminal da IDE em tela cheia.
+3° - Divirta-se.
