@@ -1,0 +1,51 @@
+;;;;;;,,,;::ccc::ccc::::;;;;;;;;;;,,,,,''''''''''''',,,;;;;;;:clldxkkOO0000000000OO00OOOOkkkkxxdolc:;;;,,,,,,,,,,,;:codxxxxkOO00OO00OOOOOOOOkOOkkkkkxxxxxxxkkkkOkOOOOOO00OOOOOOOOOkkkkkkkkkkxxxxdddddxdd
+''''''''''',,,;;;;;:::cccc::::;;;;;;;;;:::::::;;;;;,,,,,,,,,,,;;;:ccclllllooodddddxxxxkkkkkkOOOOkkxxddolc:;,,,,,,,,,;:cclllloodddxxxxxxxxkkkxxxxxddddoolllooooddddddodddxxxxxxdddooooooooodooollllooooll
+''''''''''...''''''',,,,;:clc::c::;;;;;;;;;;;;;;::;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,;;;;;:::cclllllloooooooooollcc:::;;;;;;;:;;;;::::::ccccllllooolllllcccccccccccccccccccclllllllllllllloooooolc;',:lloc'.
+'''''''''''''''''''''''''',;;;::::;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,''''''''',''''''''''''''''',,,;;::::c:::::::::::::;;;;;;;,,;;;;;::::::;;;:::::::::::::::::::::::cccclllloodddddxxo;..':cll,..
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''',,,,,'',,,,,,,,,,,,,,,,,,,''''''''''''''''''''''''''''''',,,,,,,,,,,,,,,,,,,,,,,;;;,,,,,,,,,,,,,,,;;;;;:::cccllllllllooooodddoc:;,',;:c:,'.
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''',,,,,,,,,,,,,,,,,,,,,,,,,,,,'',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;::::::;;,,,,;,,;;;;;;;:::ccccllooooddddddddxxxol;..';;;;;:c,.
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''',,,,,,,'''''''''''''''',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;:;;;;;:cclllc:;;;;;::cccllllloooooooddddddxxxxxxxxxdc'.....;c;..;c;'
+''''''''''''''''''''''''''''''',,,',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;,,,,,,,;;,,,,,,,,;;:cllllclooollc:cccccllooooooddddddoolcldddo:;cdxxdl,.......,;,..;:lo
+'''''','''''''''''''''',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;,,;;;;;;,,,,,,,,,,,,,,,;;;;;;::ccllcc:;;:::cccc::;;;;;;;;;;;;;;;;;::clloodddollccllllllloooodddddddddc'.';:o:..';ll;........,,'..''.',
+'',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;::::::ccccccccccc::;;;;;;;;;;;;;;;::cccclooooooolllllllllllcc:::;;;;;;;;;;;;;;;::cllollllloooooooooooooododddddl,...'',.....';,......',,'.......,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;::::;;::ccccccccccccccllllc::::::;;;;;;;;;;;;:::::cccccccclllc::ccccllllllllllccccccccccccclllllllcccllloool:loddolooc;:c,...',,...,,,,,.......'.'',.''...,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;::::::cccccccccclllllllllcccccccccccccccccccccccccc:::::::::::cccccllllllllllllllllllllol,''.''.;ll;.,::c,.,,...,'...';;'..,;'..  ....'.....','...,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;::::cc:::::ccccllccllccccllccclcccclllllccc:::::::;;:::::::clllllllllllllllol;;c:........',..''.','......'''',;'....;;........... .;;,'...'
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;::::::::ccccccccccclllllllllllllllllllllllllllcclcllllllooolllloolllllol:...,.............''..........''','....',..............,,,'..''
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;::::::::cccccccccccccccccccccclllllllllllllllllllllllllllllcllccllllllooooollolll;',;,'.....................',''..  ....',......     ...  .',:,..'.''.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;::::::::::::c::cc:::::ccccccccccclcccccccccc:ccccc::::;'';:'.;:cc:::;;;,'',,','...................'...'',,,,'...  ...,;,. ...     ...  ...,'..'..''
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;,,,,'''''''''''''''''......'''''''''''''''''''''''',;,'.'......''..''''..'''''''..'...'','...,,...',,,;:;,;cc;;;,,;,.......'....;'..  .........'..... ..
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;,,,,,'..............................................'..............''''.'',,''..',''','''''','.',,,',;;;,,;'';;;:ccc:,,,;:,... .....''',;,.........'''...'..''.
+'',,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,''''.','''''','''''''',,'''''''',;,''.''''''....',','',,;;;;;,;;,,;,,,,;,,,;;;,,,;;;,,,,;clcc:;,,,;::ccc;;;;:;',:::c;,;:;'.';;;;,,::;;;:;',,,;,,'..,;::cllclc:
+..................''''''''''''',,''',,,;;;;;;;,,;;;;:::cclllodxxkkkkkxddollddooooollccc:cllooodddxxxxxxxxxxxxxxxkkkkkOOOOOOOOOkxxxkOkoodoloc:l:;;;,,;;,,',,,;c::cccccdkxxkkxdooodxkkkkkxxxxddk0K0kxddxxd
+........'''''',,,,;:cclooodollllloxddodxxxdxxxxxxxxxkkkkkkxdxxxxxkkxxxdxxxkOKK0OkdllclcccclodoloooloooooooooooooooodxxkkkOOOOO0000000000000000OxxxxxxxxxxxxxxxxkkOOO00000000OOOOO00K00000KKKKKKKKKKKKKKK
+,:cccoddddxxxxxxxxxkkO0KKKK0000000000000000OOO00O000000000O000OOOOOOOOkkkkxxxkxxdoolllllllloolclcllllllloooooooooodxxkkkkkkOOO0000000000000000000000000000000000000000000000000OOOOOOOOOOOOOOOOOOOOOOOOO
+dxxxkkkOOOOOO0OO00KKKXXXXXXXKKXKKKK00000000000000OOOkkkkxxxxxxdoooooollllllllllllllollllllooooooooooddddddooooooollooooooddxkkOOOOOOOOOO00000000000KKKKKKKKKKKKK00000000000000000000000000000000000000OO
+XXXXXNXXXXKKKKK000KKK0000OOOkkkkkxxdddddooooooooolllllllllllllllllllllllllllllllllooooooooooddddddddddxxxxdxddooooodxkkkkkOOO0000000000000000000KKKKKKKKKKKKKKKKKKKKKKKKKK000000000000000000000000000000
+ddddddddoooooooooooooooooooooooooooollooollooooolllllllllllllllllccllcccccccclcclllllllllllooooddddddddddddddoooooooxxkkkOO0000000000000000000000000000KKK0000000000000000000000000000000000000000000000
+ccccclccllllllllllllllllllllllllllllllllllllllllllcccllcccccccllccccccccccccccccccccllllllllllllllllllllllllllllllllllllooxO0OO00000OOOOOOO000000000000000000000000000000OOOOOOOOOOOOOOOOOOOOOOOOOOO0000
+cccccccccccccllllccclllllllllllllllcccllcccccccccccccccccccccccccccccccccccccccccclllllllllllllllllloooollllllllllloooodxkkkkxkkkkkkkkOOOOOO000000000000000000000000000000000000OOOOOOOOOOOOOOOOOOOOOOOO
+cccccccccccclllllllccccclllcccccccccccccccccccccccccccccccccccccccccccccccllllllllllllllllllllllllllloooooooooooodxxxkOOkkxxxxxxxxxxxxxxxxxxxkkkkOOOOOOOOOOO0000000000000O000000OOOOOOOOOOOOOOOOOOOOOOOO
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccclllllccllllllllllllllllllllllllloooodddxxxxkkkkkkkkkOOOOkkkkxxxxxxxxxxxxxxxxxddddddddddxxkkOOOOkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+cccccccccccccccccccllllcclllccccccllccccclcccccccllllllllllloollllloooooodoollooddddxxdddxxxxkkkkOO00KXK000OOOOOkkkkkkkxxxxxxxxxxxxxxddddddddddddddddxkkOOkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+clllllllllllooolllllllllllccccccccccccccclllllllllooooooooooooodddxxxxxxxxxddxxkkkxxxxxxdxxdddddxxO0KKKOkkkkkkkkkkkxxxxxxxxxxxxxxxxxxdddddddddddddxxxkkkOOOOOOOOOOOOOkOOOOOOOOOOOOOOOOOOOOOOOOkkkkkkkkkk
+llllllollllcllllclllllllllllllllllllllllllllllllooooooooolooddoddxxxxxddoooooooooddddddddddddddddx0XNX0OkkkxxxxxxxxxxxxxxxxxxxxxxxxxxxdddddddddddxxkkkkkOOOkkkkOOOOOOkkkkOOOOOOkkkkkkkkkkkkkkkkkkkkkkkkk
+looolllllllllllllllllllllllllllllllccclllllllllllloolloollooooooooooooooooooooooooodoooodddddxxkO0K00OkkkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdddddddddxxkkkkkkkkkkkkkkOkkkkkkkOOOOkkkkkkkkkkkkkkkkkkkkkkkkkkk
+looollcccllllllccccccccccccllllllolcccllloooolooolllllllooooooooooooodddoooooodddddxxxkkkkOOOO0KXXK0Okkxxxxxxxxxxxxxxxxxddddddddxxxddddddddddddddxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+lllllcclllccccccccclllcccccclllloolccllloooollooooollloodddoooooooooodddddddddxxxxxxxxkkxkkkO00K0Okkxxxxxxxxxxxxxxxxxxxxxxxxxddddddddxxxdxxxxxxxxkkxxxxxxxxxxxxxxxxkkkkkkkxxxxxkxxxxxxxxkkkkkkkxxkkkkkkk
+ccccccccccccccccclllllllllcccclllllcccllloooooddooooooodddooooodddddddxxxxxxkO0OkkkkkkOOOOOOOOkkkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkxxxxxxkkxxxxxxxxxxkkkxxxxkkkkkk
+cccc::cccllllllooddoolllccccllooooooooodddoooooooooooddddddddddxxxxxddxkkOO0KXNX0OOOOOOOOkkkkkxxxkxxxxxxxxxxxxxxkkkkkkxxxxkkkxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkxxxxxxxkkkk
+cccccllloollllodxkkkOkkkxxxxxxxxxxkOOxdxxxddddddddxdddxddddxxxxxxxkkxxkxxxxxkkkkkkkkkkkkOOkkkkxxxxxxkkxxkkkkkkkkkkkkkkkkkkxxxxxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkOkkkkkkkOOOkkkkkkkkkkkkkkkkkxxxxx
+lccccccccccc:ccccloodddddddxxxddddxkkdodddddddddddxxddxdddodddxxxxxdooooooooddxxxddddddxkkkkkOOkkkkkkkkkkkkkkkkkkkkkkkxxxxxxxxxxxxxxxxxxxxxxxdddddxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOOOOkkkkkkkkkkkkx
+cc:ccccccccccccccclllloooodddddddoxO0OxdooooddddoodoooddddddxdoolllllllloodooooxxdodddddddddxkOO00OkkkkkkkkkkkkkkkkxxxxxxxxxxxxxxxxxxxdddddddddddddxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkxxkkkOOOOOOOOOOOOOOOOkk
+cccllllloloooooooooooooooodddddxxxkOOkxddoooooooolodxxddooolollllllllllloddooodxdoooddddddddddxxkOO00OOkkkkkkkkkxxxxxxxxxxxxxxxxxxxxddddddddddddddxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOkkkkOOOOOOkkkO
+clloolooddddddddddxxxxkkkkkkkkkxxxxdddoooooooooodddddooooollllllllloooooooooodddooooddddddddddxxxxxO00K0kkkkkkkxxxxxxxxxxxxxxxxxxxxxxxdddddddddddxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOOkkkkkkO
+ooooooolooooooddddxxxxxxxddddddddddddooooooddddoooodddoooooolllooooooooooodoooooooooodooooddxxxxxxxkkOKK0OkkkkkkkxxxxxxxxxxxxxxxxxxxxxxxxddddddddxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkOOOOOkkkkkkkkk
+lllollllllllllllllooddoodddddxxxxdddoodddoollooooooooooooooolloddooodddoooolooooooooooooooddxxddddddxxxkOOOOOkkkkkxxxxxxxxxxxxxxxxxxxxxxxxxdddddxxxxxxxxxxxkkkkkkkkkkkkOOOOOOkkkkkkkkkkkOOOOOOOOOOkkkkkk
+cccccccccccccccclllodddxxxxxxxxxddddoodoodoooddollooooddooooooodddoooooooolloooooooooooooodddoooooodddddddxkkkOOOkkkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkkkkkxxxkkkkkkkkkkOOkkOOOOOkkkkkkkOOOOOkkkkkkOkkkkOO
+llccccc:::::::cllllodddxxxddddddoodddooooooodddolooooooooooooddddooloooolloodddoodddoooooddooddoddddddddddxxddxOKKOkkkxxxxxxxxxxxxxdddxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkOOOOkkkkkkkkkkOOkkkkkkkkkOOOOO
+lcc:::::::::::::::cccllooddooodddddddddoloooollllllooooollooodooooooodddooddoooooooooooodddddxxdddddddddddddxxkOKX0kkkxxxxxxxxxxxddddxxxxdxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkkkOOOkkkOOkkkkkkkkkkkkkkkkkkkOO
+lc::::c::c:cccccccllloooddooodddxddoooooooooolloooollllllooloooooodddddooooooooooddoodddddooodddooddddddddddxxO0KKOkkkkxxxxxxxxxxxxxxxxdddxxxxxkkkkkkkkkkkkkkkkkkkkkkkOOOOOOOOOkkkkkkkkkkkkkkkkxxkkkkkkk
+llllooollllooooddodoooollllcclllooooooooloooollooooooooooodoloooooooooooodddoooodddoddoodoooloooddddddddxxxxkO0K0OkkkkkkxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkOOOOkkkOOOOOOOOOOkxkkkkkkkkkkkkkxxkkkkkkk
+oooddooolllloolloollcclcccccclollooollooooooooloooooooooooooooddooodoooooooooloddooddoooooooddodddxxxxxddxxkOKK0OkkkkkkkxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkOOkkkkkOOOOOOOOkkkkOkkkkkkkkkkkkkkkkkkk
+lllllcccccccllcclllccllclllloooodddolloddddooooooododddooooooooooodooooollllloddooooddoooodxkxdddxdddddddxkOKX0kkkkkkkkkxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkkkkkkkkkkOkkkkkkOOOOOOOOOkkkOkkkkkkkkkkkkkkkkkkk
